@@ -2,19 +2,19 @@
     "data": [
         {
             "id": 2863224456,
-            "start_time": 1752433200,
-            "end_time": 1752440400,
-            "champions": "كأس العالم للأندية",
-            "commentary": "حماد العنزي",
+            "start_time": 1755111600,
+            "end_time": 1755118800,
+            "champions": "كأس السوبر الاوروبي",
+            "commentary": "حسن العيدروس",
             "team_1": {
-                "name": "تشيلسي",
-                "logo": "https:\/\/ssl.gstatic.com\/onebox\/media\/sports\/logos\/fhBITrIlbQxhVB6IjxUO6Q_96x96.png"
+                "name": "توتنهام",
+                "logo": "https:\/\/ssl.gstatic.com\/onebox\/media\/sports\/logos\/k3Q_mKE98Dnohrcea0JFgQ_96x96.png"
             },
             "team_2": {
                 "name": "باريس",
                 "logo": "https:\/\/ssl.gstatic.com\/onebox\/media\/sports\/logos\/mcpMspef1hwHwi9qrfp4YQ_96x96.png"
             },
-            "channel": "DAZN 1"
+            "channel": "beIN SPORTS 1"
         }
     ]
 }
